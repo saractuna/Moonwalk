@@ -1,6 +1,6 @@
 <h1>Project Title - Tool</h1>
 
-Enter Project Description Here,
+A 2D infinite-walker game developed as an OOP study project, features a class-based architecture for weapons, enemies, and game mechanics. The game challenges players to survive enemy waves by strategically managing different weapon types and enemy encounters, with defeated enemies dropping loot (health points, ammunition, etc.) to aid progression. Built using encapsulation and inheritance patterns.
 <br />
 <br />
 
