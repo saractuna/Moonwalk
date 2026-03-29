@@ -9,7 +9,7 @@ A 2D infinite-walker game developed as an OOP study project, features a class-ba
 
 - <b>C#</b> 
 - <b>Unity</b>
-<i>To take a peek into how the code workd, take a look [here][code]</i>
+<i>To take a peek into how the code work, take a look [here][code]</i>
 <br />
 
 [code]: https://github.com/saractuna/Object-Oriented-Programming-in-Games-Development/blob/main/code.md
@@ -18,31 +18,14 @@ A 2D infinite-walker game developed as an OOP study project, features a class-ba
 
 <p align="center">
 
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+![moonwalk1](https://github.com/user-attachments/assets/e3502607-aad5-4122-8e65-6afda755cb07)
 <br />
 <br />
  
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+![moonwalk2](https://github.com/user-attachments/assets/1c5b853d-dfd9-4565-8a90-b418e61f5b85)
 <br />
 <br />
 
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <!--
