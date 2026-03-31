@@ -8,7 +8,9 @@ A 2D infinite-walker game developed as an OOP study project, features a class-ba
 
 <h2>Languages and Utilities Used:</h2>
 
-- <b>C#</b> 
+- <b>C#</b>
+<br />
+
 - <b>Unity</b>
 <br />
 
