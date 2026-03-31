@@ -8,10 +8,14 @@
 
 <h2>Languages and Utilities Used:</h2>
 
-- C#
+- C# <i>- [click here to check out the code.]</i>
 
 - Unity
 <br />
+
+
+[click here to check out the code.]: https://github.com/saractuna/Moonwalk/tree/main/Scripts
+
 
 <h2>Walk-through:</h2>
 
